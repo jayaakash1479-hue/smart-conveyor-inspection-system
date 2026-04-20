@@ -53,3 +53,8 @@ This project simulates a real industrial conveyor inspection system where produc
 - Department: Mechatronics with Robotics  
 - Course: Data Science  
 - Register No: RA2311038010016
+
+  
+## 📸 Output Preview
+
+![Output](output.png)
